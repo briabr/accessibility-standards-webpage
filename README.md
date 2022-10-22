@@ -1,4 +1,4 @@
-# the-code-refactor (Note: used the challenge assignment guidlines as reference for README)
+# accessibility-standards-webpage (Note: used the challenge assignment guidlines as reference for README)
 
 ## The Task and User Story
 
